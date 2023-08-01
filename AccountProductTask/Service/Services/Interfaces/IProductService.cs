@@ -11,6 +11,5 @@ namespace AccountProductTask.Services.Interfaces
     {
         List<Product> GetAll();
 
-
     }
 }
