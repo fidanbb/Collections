@@ -1,0 +1,15 @@
+/Users/thatisphii/Desktop/c#Homeworks/Collections/ClasssWorkCollections/ClasssWorkCollections/bin/Debug/net7.0/ClasssWorkCollections
+/Users/thatisphii/Desktop/c#Homeworks/Collections/ClasssWorkCollections/ClasssWorkCollections/bin/Debug/net7.0/ClasssWorkCollections.deps.json
+/Users/thatisphii/Desktop/c#Homeworks/Collections/ClasssWorkCollections/ClasssWorkCollections/bin/Debug/net7.0/ClasssWorkCollections.runtimeconfig.json
+/Users/thatisphii/Desktop/c#Homeworks/Collections/ClasssWorkCollections/ClasssWorkCollections/bin/Debug/net7.0/ClasssWorkCollections.dll
+/Users/thatisphii/Desktop/c#Homeworks/Collections/ClasssWorkCollections/ClasssWorkCollections/bin/Debug/net7.0/ClasssWorkCollections.pdb
+/Users/thatisphii/Desktop/c#Homeworks/Collections/ClasssWorkCollections/ClasssWorkCollections/obj/Debug/net7.0/ClasssWorkCollections.csproj.AssemblyReference.cache
+/Users/thatisphii/Desktop/c#Homeworks/Collections/ClasssWorkCollections/ClasssWorkCollections/obj/Debug/net7.0/ClasssWorkCollections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thatisphii/Desktop/c#Homeworks/Collections/ClasssWorkCollections/ClasssWorkCollections/obj/Debug/net7.0/ClasssWorkCollections.AssemblyInfoInputs.cache
+/Users/thatisphii/Desktop/c#Homeworks/Collections/ClasssWorkCollections/ClasssWorkCollections/obj/Debug/net7.0/ClasssWorkCollections.AssemblyInfo.cs
+/Users/thatisphii/Desktop/c#Homeworks/Collections/ClasssWorkCollections/ClasssWorkCollections/obj/Debug/net7.0/ClasssWorkCollections.csproj.CoreCompileInputs.cache
+/Users/thatisphii/Desktop/c#Homeworks/Collections/ClasssWorkCollections/ClasssWorkCollections/obj/Debug/net7.0/ClasssWorkCollections.dll
+/Users/thatisphii/Desktop/c#Homeworks/Collections/ClasssWorkCollections/ClasssWorkCollections/obj/Debug/net7.0/refint/ClasssWorkCollections.dll
+/Users/thatisphii/Desktop/c#Homeworks/Collections/ClasssWorkCollections/ClasssWorkCollections/obj/Debug/net7.0/ClasssWorkCollections.pdb
+/Users/thatisphii/Desktop/c#Homeworks/Collections/ClasssWorkCollections/ClasssWorkCollections/obj/Debug/net7.0/ClasssWorkCollections.genruntimeconfig.cache
+/Users/thatisphii/Desktop/c#Homeworks/Collections/ClasssWorkCollections/ClasssWorkCollections/obj/Debug/net7.0/ref/ClasssWorkCollections.dll

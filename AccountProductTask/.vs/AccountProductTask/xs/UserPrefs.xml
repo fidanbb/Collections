@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{03F4755B-67DE-4F28-8EB3-6DC8C44772F4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Service/Services/Interfaces/IProductService.cs">
+    <Files>
+      <File FileName="AccountProductTask/Controllers/AccountController.cs" Line="1" Column="33" />
+      <File FileName="AccountProductTask/Services/ProductService.cs" Line="16" Column="1" />
+      <File FileName="AccountProductTask/Program.cs" Line="13" Column="16" />
+      <File FileName="AccountProductTask/Services/Interfaces/IProductService.cs" Line="17" Column="1" />
+      <File FileName="AccountProductTask/Services/Interfaces/IAccountService.cs" Line="10" Column="11" />
+      <File FileName="AccountProductTask/Services/AccountService.cs" Line="11" Column="11" />
+      <File FileName="AccountProductTask/BaseEntity.cs" Line="9" Column="11" />
+      <File FileName="Domain/Models/Product.cs" Line="2" Column="1" />
+      <File FileName="Domain/Models/User.cs" Line="9" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AccountProductTask" expanded="True">
+            <Node name="AccountProductTask" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="Domain" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="Service" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True">
+                  <Node name="IProductService.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AccountProductTask PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
